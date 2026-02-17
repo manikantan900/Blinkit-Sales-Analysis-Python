@@ -9,9 +9,6 @@
 
 ## 📌 Project Overview
 
-
-## 📌 Project Overview
-
 This project presents a comprehensive sales performance analysis of **Blinkit**, focusing on revenue trends, product category performance, outlet distribution, and customer satisfaction metrics.
 
 Using Python-based Exploratory Data Analysis (EDA), the project evaluates key retail KPIs and uncovers actionable business insights to support strategic decision-making.
