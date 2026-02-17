@@ -1,11 +1,12 @@
-🛒 Blinkit Sales Analysis Using Python
-📌 Project Overview
+## 🛒 Blinkit Sales Analysis Using Python
 
-This project presents a comprehensive sales performance analysis of Blinkit, focusing on revenue trends, product category performance, outlet distribution, and customer satisfaction metrics.
+## 📌 Project Overview
+
+This project presents a comprehensive sales performance analysis of **Blinkit**, focusing on revenue trends, product category performance, outlet distribution, and customer satisfaction metrics.
 
 Using Python-based Exploratory Data Analysis (EDA), the project evaluates key retail KPIs and uncovers actionable business insights to support strategic decision-making.
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 Analyze overall sales performance across outlets
 
@@ -19,7 +20,7 @@ Assess influence of outlet establishment year on performance
 
 Deliver data-driven retail optimization insights
 
-📊 Key KPIs Analyzed
+## 📊 Key KPIs Analyzed
 
 Total Sales – Overall revenue generated
 
@@ -29,32 +30,32 @@ Number of Items Sold – Total count of items purchased
 
 Average Rating – Customer satisfaction indicator
 
-📈 Visual Analysis & Insights
-🥇 Total Sales by Item Type
+## 📈 Visual Analysis & Insights
+## 🥇 Total Sales by Item Type
 <p align="center"> <img src="images/sales_by_item_type.png" width="750"> </p>
 
-Insight:
+**Insight:**
 Certain product categories dominate overall revenue contribution, highlighting priority segments for inventory planning and promotional strategies.
 
-🏬 Sales by Outlet Size
+## 🏬 Sales by Outlet Size
 <p align="center"> <img src="images/sales_by_outlet_size.png" width="750"> </p>
 
-Insight:
+**Insight:**
 Medium-sized outlets generate optimal sales performance, indicating balanced operational efficiency and demand capacity.
 
-📅 Sales Trend by Outlet Establishment Year
+## 📅 Sales Trend by Outlet Establishment Year
 <p align="center"> <img src="images/sales_trend_by_establishment.png" width="750"> </p>
 
-Insight:
+**Insight:**
 Established outlets demonstrate more stable revenue patterns, while newer outlets show gradual growth potential.
 
-🥗 Total Sales by Fat Content
+## 🥗 Total Sales by Fat Content
 <p align="center"> <img src="images/sales_by_fat_content.png" width="750"> </p>
 
-Insight:
+**Insight:**
 Product segmentation by fat content reveals significant variation in revenue contribution, supporting targeted merchandising decisions.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 Python
 
@@ -66,7 +67,8 @@ Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook – Analysis environment
 
-📂 Repository Structure
+## 📂 Repository Structure
+```
 Blinkit-Sales-Analysis-Python/
 │
 ├── data/
@@ -83,8 +85,8 @@ Blinkit-Sales-Analysis-Python/
 │
 ├── requirements.txt
 └── README.md
-
-📊 Dataset Overview
+```
+## 📊 Dataset Overview
 
 The dataset includes the following attributes:
 
@@ -102,7 +104,7 @@ Sales
 
 Customer Rating
 
-🚀 Project Outcomes
+## 🚀 Project Outcomes
 
 Demonstrated strong Exploratory Data Analysis (EDA) capabilities
 
@@ -112,7 +114,7 @@ Identified revenue concentration areas and performance drivers
 
 Built professional visual storytelling for decision support
 
-👤 Author
+## 👤 Author
 
 Manikantan P
 Business Analyst | Data Analytics | Python | SQL | Power BI | Tableau
