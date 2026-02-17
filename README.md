@@ -15,27 +15,27 @@ Using Python-based Exploratory Data Analysis (EDA), the project evaluates key re
 
 ## 🎯 Business Objectives
 
-Analyze overall sales performance across outlets
+- Analyze overall sales performance across outlets
 
-Identify high-performing product categories
+- Identify high-performing product categories
 
-Evaluate impact of fat content on total revenue
+- Evaluate impact of fat content on total revenue
 
-Compare sales distribution by outlet size and location
+- Compare sales distribution by outlet size and location
 
-Assess influence of outlet establishment year on performance
+- Assess influence of outlet establishment year on performance
 
-Deliver data-driven retail optimization insights
+- Deliver data-driven retail optimization insights
 
 ## 📊 Key KPIs Analyzed
 
-Total Sales – Overall revenue generated
+- Total Sales – Overall revenue generated
 
-Average Sales – Average revenue per transaction
+- Average Sales – Average revenue per transaction
 
-Number of Items Sold – Total count of items purchased
+- Number of Items Sold – Total count of items purchased
 
-Average Rating – Customer satisfaction indicator
+- Average Rating – Customer satisfaction indicator
 
 ## 📈 Visual Analysis & Insights
 ## 🥇 Total Sales by Item Type
@@ -64,15 +64,15 @@ Product segmentation by fat content reveals significant variation in revenue con
 
 ## 🛠 Tools & Technologies Used
 
-Python
+- Python
 
-Pandas – Data cleaning & transformation
+- Pandas – Data cleaning & transformation
 
-NumPy – Numerical computations
+- NumPy – Numerical computations
 
-Matplotlib & Seaborn – Data visualization
+- Matplotlib & Seaborn – Data visualization
 
-Jupyter Notebook – Analysis environment
+- Jupyter Notebook – Analysis environment
 
 ## 📂 Repository Structure
 ```
@@ -95,31 +95,37 @@ Blinkit-Sales-Analysis-Python/
 ```
 ## 📊 Dataset Overview
 
-The dataset includes the following attributes:
+- The dataset includes the following attributes:
 
-Item Type
+- Item Type
 
-Fat Content
+- Fat Content
 
-Outlet Size
+- Outlet Size
 
-Outlet Location
+- Outlet Location
 
-Outlet Establishment Year
+- Outlet Establishment Year
 
-Sales
+- Sales
 
 Customer Rating
 
 ## 🚀 Project Outcomes
 
-Demonstrated strong Exploratory Data Analysis (EDA) capabilities
+- Demonstrated strong Exploratory Data Analysis (EDA) capabilities
 
-Transformed raw retail data into structured business insights
+- Transformed raw retail data into structured business insights
 
-Identified revenue concentration areas and performance drivers
+- Identified revenue concentration areas and performance drivers
 
-Built professional visual storytelling for decision support
+- Built professional visual storytelling for decision support
+
+## 📌 Business Recommendations
+
+- Target high revenue item types for promotions.
+- Allocate more inventory to medium-size outlets.
+- Focus marketing on outlets with lower sales but strong ratings.
 
 ## 👤 Author
 
